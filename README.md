@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Marwan Mohamed!
 
-<!--
-**MarwanMohamedMBA/MarwanMohamedMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 CVS Pharmacy Store Manager | 🎓 MBA Student | 🧠 Future Tech Exec
 
-Here are some ideas to get you started:
+I'm currently working through a 6-month, self-paced Python + Azure roadmap to become a cloud automation AI, and analytics expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech I'm Learning Now
+- ✅ Python fundamentals and modular coding
+- ✅ File I/O, JSON, APIs, and testing
+- 🔜 Azure Functions, CI/CD, Dashboards
+- 🔜 Machine learning and cloud automation
+
+---
+
+## 🧪 My Featured Project
+
+### [💉 Immunization Tracker](https://github.com/MarwanMohamedMBA/immunization-tracker)
+A terminal-based vaccine data tracker built in Python.  
+Tracks eligibility, saves data, and fetches real-world CDC API trends.
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@MarwanMohamedMBA](https://github.com/MarwanMohamedMBA)
+- LinkedIn: (https://www.linkedin.com/in/marwan-sayed-mba/)
