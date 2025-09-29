@@ -36,9 +36,7 @@ Rapid promotion from Pharmacy Technician → Store Manager at CVS in under 18 mo
 
 Leadership & Team Development: Managed 30+ employees, improved operational efficiency, and implemented new tech district-wide
 
-Technical Skills: Python, Git/GitHub, Jupyter Notebooks, HTML, Java, Tableau, Power BI, Excel
-
-Soft Skills: Project management, workflow optimization, analytical thinking, bilingual communication (English/Arabic)
+Technical Skills: Python, Git/GitHub, Jupyter Notebooks, Tableau, Power BI, Excel
 
 📫 Connect with Me
 
